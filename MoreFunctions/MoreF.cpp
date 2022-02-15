@@ -15,6 +15,7 @@ int main() {
 	/*cout << func(n, m) << endl;
 	cout << func(5.5, 9.5) << endl;*/
 	cout << maxFunc(n, m) << endl;
+	cout << "Топ 1!\n\n";
 
 	return 0;
 }
